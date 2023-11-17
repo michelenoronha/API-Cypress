@@ -20,3 +20,10 @@ Aqui estão alguns pontos-chave sobre a Integração Contínua:
 8. **Eficiência e Qualidade:** Ao facilitar a detecção precoce de bugs e garantir a qualidade do código, a CI contribui para o desenvolvimento mais eficiente e para a entrega de software de alta qualidade.
 
 9. **Ferramentas de CI:** Existem várias ferramentas de CI populares, como Jenkins, Travis CI, CircleCI e GitLab CI, que automatizam e facilitam a implementação dessas práticas. Essas ferramentas são integradas aos sistemas de controle de versão e oferecem uma variedade de recursos para automação de builds, execução de testes e implantação contínua.
+
+In English
+Continuous Integration (CI) is a software development practice that involves automatically integrating code changes from multiple contributors into a shared repository. The main goal of CI is to detect and address integration issues early in the development process. This is achieved by frequently and automatically building, testing, and validating code changes.
+
+In a CI environment, developers regularly commit their code to a version control system, triggering an automated build and test process. This process helps identify any conflicts or errors introduced by new code changes and ensures that the application remains in a functional state.
+
+CI systems often work in conjunction with automated testing frameworks and tools to assess the quality of the codebase. By adopting continuous integration, development teams can streamline the development workflow, catch and fix issues earlier, and deliver more reliable software with greater efficiency. Have you had any experience with CI in your development projects?
